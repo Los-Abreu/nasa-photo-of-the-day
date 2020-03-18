@@ -1,0 +1,19 @@
+.Nasa-Card {
+    background-color: burlywood; 
+}
+
+.Nasa-Card img{
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 18px 15px rgba(0, 0, 0, 0.22);
+    border-radius: 2%;
+}
+
+.apodDesc {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 30px;
+}
+
+.apodDesc p{
+    padding-bottom: 20px;
+}
