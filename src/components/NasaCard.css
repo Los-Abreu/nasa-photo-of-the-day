@@ -1,5 +1,5 @@
 .Nasa-Card {
-    background-color: burlywood; 
+    background-color: black; 
 }
 
 .Nasa-Card img{
@@ -16,4 +16,5 @@
 
 .apodDesc p{
     padding-bottom: 20px;
+    color:white;
 }
